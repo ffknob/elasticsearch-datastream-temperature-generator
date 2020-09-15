@@ -1,2 +1,1 @@
-# lasticsearch-datastream-temperature-generator
-Elasticsearch Datastream Temperature Generator
+# Elasticsearch Datastream Temperature Generator
